@@ -1,0 +1,23 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Selenium WebDriver drivers
+drivers/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE and Editor specific files (optional, adjust based on your editor)
+.vscode/
+.idea/
+
+# Log files (if applicable)
+*.log
+
+# MacOS specific files (optional)
+.DS_Store
